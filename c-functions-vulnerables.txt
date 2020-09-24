@@ -1,0 +1,7 @@
+\.gets$
+\.strcpy$
+\.strcat$
+\.strcmp$
+\.sprintf$
+\.vsprintf$
+\.printf$
